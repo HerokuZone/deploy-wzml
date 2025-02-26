@@ -24,8 +24,8 @@ par2cmdline-turbo
 pillow
 psutil
 pymongo
-kurirogram
 python-magic
+pyrofork==2.3.58
 pytz
 qbittorrent-api
 requests
